@@ -1,0 +1,3 @@
+Script started on 2025-09-16 11:15:29+02:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="161" LINES="11"]
+doOCstart -i [200~epic_ishizaka[201~[200~apt-get update[201~[200~apt-get -y install nano[201~[200~nano /usr/src/app/index.js[201~[200~console.log('Hello World')[201~exit[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dcartexitexit
+Script done on 2025-09-16 11:18:16+02:00 [COMMAND_EXIT_CODE="0"]
