@@ -1,7 +1,6 @@
-FROM node:24.8.0-bullseye-slim
+FROM node:24.8.0-bookworm-slim
   
 WORKDIR /usr/src/app
-
 
 COPY --chown=node:node . .
 

@@ -1,0 +1,3 @@
+Script started on 2025-09-17 17:09:44+02:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="66" LINES="11"]
+OAOAOBOAexec -it [200~todo-backend-redis-1[201~OC bashKEYS *[200~redis-cli[201~KEYS *GET added_todosSET added_todos 9001[A[A[ADEL added_todos[A[Aquitexitextit
+Script done on 2025-09-17 17:19:58+02:00 [COMMAND_EXIT_CODE="0"]

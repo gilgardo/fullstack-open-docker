@@ -1,0 +1,14 @@
+services:
+  app:
+    image: todo-front
+    build: .
+    ports:
+      - 8080:80
+    environment:
+      VITE_BACKEND_URL: http://localhost:3000
+    restart: unless-stopped
+  test:
+    image: todo-front
+    build:
+      context: .
+      target: test-stage

@@ -1,6 +1,7 @@
 .dockerignore
 node_modules
 npm-debug.log
+redis_data
 Dockerfile
 .git
 .gitignore
