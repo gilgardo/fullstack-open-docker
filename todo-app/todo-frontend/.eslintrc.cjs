@@ -7,14 +7,12 @@ module.exports = {
     "plugin:react/jsx-runtime",
     "plugin:react-hooks/recommended",
   ],
-
   files: ["**/*.test.{js,jsx}"],
   languageOptions: {
     globals: {
       ...global.vitest,
     },
   },
-
   ignorePatterns: ["dist", ".eslintrc.cjs"],
   parserOptions: { ecmaVersion: "latest", sourceType: "module" },
   settings: { react: { version: "18.2" } },
